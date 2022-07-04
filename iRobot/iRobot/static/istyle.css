@@ -1,0 +1,24 @@
+.navbar {
+position: fixed;
+background-color: rgb(0, 0, 0);
+padding-top: 30px;
+}
+
+.nav-item {
+color: #ffffff;
+}
+
+body {
+    text-decoration-color: black;
+    background-color: rgb(236, 245, 248);
+}
+
+p {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.contain {
+    padding-top: 80px;
+    padding-left: 30px;
+}
